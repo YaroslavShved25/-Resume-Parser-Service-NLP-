@@ -1,5 +1,5 @@
 
-````markdown
+
 # 📄 Resume Parser Service (GPT-3 Powered)
 
 A **GPT-3 based Resume Parser REST API** that converts resume PDFs into clean, structured JSON files.  
